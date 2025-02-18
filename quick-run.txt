@@ -1,0 +1,4 @@
+- set the correct bed file in the "cpk" folder
+- place the fastq files in "exp"
+- edit the runner with matched ids
+- grab the "rep" or the "ref" folder (if you grab the latter the "reference indexing" section in the runner can be skipped)
