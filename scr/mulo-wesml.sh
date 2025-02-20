@@ -195,56 +195,56 @@ ref_name="grch38-p14"
 # 0a075a7a0f5648edb556154f06e57062 \
 # 9c45d7096fdf420ebc045ad037ed9d59 \
 # 6a074fd834244909bd452ecf48301240"
-# ### run 9
-# ctrl_samp="85153653fa5d43dabcee6c3ae8ffc931 \
-# a51562e936eb47f8a6965da1c3ff49f3 \
-# 0dd4d2e1db9044408a60fd7071ea5d16 \
-# 92612e6bb2d141bea6a426d73360406b \
-# 9887727ce6d8441592b3f694a21eacc5 \
-# 7453f1689b584675be27789fd67654a6 \
-# 558ebd94a7344314b9e9e8bd85991546 \
-# f02718deeecc453699dcc4c41f8e6cdb \
-# be0c1219e1774895882f607261fe4741 \
-# fb53f86c60774496a22235622ccdedf8 \
-# aa77f083a26648509782bf32c8230dff \
-# c7a887b2e8ce487e813bfb9f1fe36362 \
-# 39c49034aae8427082ec34005a04b4c2 \
-# daea6ceb2591422cb7299c1bc568786c \
-# f7e6028e6fd843b1b881d923a937ed6c \
-# e153477bf9d343e69dfc40f1fd9f42ab \
-# 865f246b0e3f46b781126c1475198b42 \
-# 536a796851fb4f27afc55710b7922bea \
-# 9a183c98af4847659c9352a87e62955f \
-# d42e8bccafc84482aae094de92c6d54d \
-# f13026135b3d4f3cb1d4117355484e8e \
-# d8bfaabec026426baa9feb512ec18101 \
-# 3b0b9f9ea1ff41639b322adf228ff889 \
-# d547aaeb1a584242961d4a91aaa04acd"
-# popu_samp="9f0b16d5394749d387cf86a67627ad66 \
-# 313b4f4a92fb4bed9f25b53fff274061 \
-# 34c8982a540444deac4c3055da585c02 \
-# bb4767d946394023bbfc88a5cdefd136 \
-# bfa7177f6d7e4f20b9c300eab658e818 \
-# c0c3b0ea66dd4bd48ff4c0a27aaa0767 \
-# 1940622798024b5a90d120b8c475ad53 \
-# f2a76a1f296b4431abba8c4850f6bd9a \
-# aa3a523c50f14aafae8a23867be79a25 \
-# 6f00fcf3f10e4c22b4ead9cc765d2647 \
-# a3b78fb8584647d88cc8af07207fe597 \
-# 9c7ea2ee4472490099f3e17f3f7876d5 \
-# 6d52d758db1049698965252e18c4422a \
-# 1ada4b3855e44e5ab58ed442058bfd92 \
-# c2f0820be38e48cea676f2cf70c06101 \
-# 03e36fad0e6d4a8ca0047e47a9b4e4bc \
-# 3db3b7b1da1d4b9ca92ac60fecf4328c \
-# 11822391a72344518df43cd94460f359 \
-# 9fb63209f7f145db94e3f57f4e510a4f \
-# 55fb5533c4fb48688763265bb849e87e \
-# 26985e4efded436da91c2bec1320d1de \
-# 3ed785cf5f7c4376a036e828130d4ef3 \
-# 35a27ae22fe9419ab79d6ca55608ff30 \
-# 6b40e5ed60a444678ec46dc7848ba027"
-# ### run 10
+### run 9
+ctrl_samp="85153653fa5d43dabcee6c3ae8ffc931 \
+a51562e936eb47f8a6965da1c3ff49f3 \
+0dd4d2e1db9044408a60fd7071ea5d16 \
+92612e6bb2d141bea6a426d73360406b \
+9887727ce6d8441592b3f694a21eacc5 \
+7453f1689b584675be27789fd67654a6 \
+558ebd94a7344314b9e9e8bd85991546 \
+f02718deeecc453699dcc4c41f8e6cdb \
+be0c1219e1774895882f607261fe4741 \
+fb53f86c60774496a22235622ccdedf8 \
+aa77f083a26648509782bf32c8230dff \
+c7a887b2e8ce487e813bfb9f1fe36362 \
+39c49034aae8427082ec34005a04b4c2 \
+daea6ceb2591422cb7299c1bc568786c \
+f7e6028e6fd843b1b881d923a937ed6c \
+e153477bf9d343e69dfc40f1fd9f42ab \
+865f246b0e3f46b781126c1475198b42 \
+536a796851fb4f27afc55710b7922bea \
+9a183c98af4847659c9352a87e62955f \
+d42e8bccafc84482aae094de92c6d54d \
+f13026135b3d4f3cb1d4117355484e8e \
+d8bfaabec026426baa9feb512ec18101 \
+3b0b9f9ea1ff41639b322adf228ff889 \
+d547aaeb1a584242961d4a91aaa04acd"
+popu_samp="9f0b16d5394749d387cf86a67627ad66 \
+313b4f4a92fb4bed9f25b53fff274061 \
+34c8982a540444deac4c3055da585c02 \
+bb4767d946394023bbfc88a5cdefd136 \
+bfa7177f6d7e4f20b9c300eab658e818 \
+c0c3b0ea66dd4bd48ff4c0a27aaa0767 \
+1940622798024b5a90d120b8c475ad53 \
+f2a76a1f296b4431abba8c4850f6bd9a \
+aa3a523c50f14aafae8a23867be79a25 \
+6f00fcf3f10e4c22b4ead9cc765d2647 \
+a3b78fb8584647d88cc8af07207fe597 \
+9c7ea2ee4472490099f3e17f3f7876d5 \
+6d52d758db1049698965252e18c4422a \
+1ada4b3855e44e5ab58ed442058bfd92 \
+c2f0820be38e48cea676f2cf70c06101 \
+03e36fad0e6d4a8ca0047e47a9b4e4bc \
+3db3b7b1da1d4b9ca92ac60fecf4328c \
+11822391a72344518df43cd94460f359 \
+9fb63209f7f145db94e3f57f4e510a4f \
+55fb5533c4fb48688763265bb849e87e \
+26985e4efded436da91c2bec1320d1de \
+3ed785cf5f7c4376a036e828130d4ef3 \
+35a27ae22fe9419ab79d6ca55608ff30 \
+6b40e5ed60a444678ec46dc7848ba027"
+### run 10
 # ctrl_samp="16b73e40db9046bcaf1d867bc80eac4f \
 # a8b9ad2d5f8e40cf945af2942dec462e \
 # abde7a376ac347eb9a0fac0c58863cd0 \
@@ -289,53 +289,53 @@ ref_name="grch38-p14"
 # 90533f5d07614b4aa1ee91e10e9ba2c4 \
 # fa676301902f473f83135bff34ae549a \
 # c4c499f391c4400e9d4c34cc4ba25efd"
-### run 11
-ctrl_samp="SRR3083867 \
-SRR3083883 \
-SRR3083856 \
-SRR3083869 \
-SRR3083846 \
-SRR3083860 \
-SRR3083848 \
-SRR3083840 \
-SRR3083873 \
-SRR3083862 \
-SRR3083879 \
-SRR3083875 \
-SRR3083854 \
-SRR3083881 \
-SRR3083844 \
-SRR3083852 \
-SRR3083877 \
-SRR3083842 \
-SRR3083838 \
-SRR3083858 \
-SRR3083864 \
-SRR3083871 \
-SRR3083850"
-popu_samp="SRR3083866 \
-SRR3083882 \
-SRR3083855 \
-SRR3083868 \
-SRR3083845 \
-SRR3083859 \
-SRR3083847 \
-SRR3083839 \
-SRR3083872 \
-SRR3083861 \
-SRR3083878 \
-SRR3083874 \
-SRR3083853 \
-SRR3083880 \
-SRR3083843 \
-SRR3083851 \
-SRR3083876 \
-SRR3083841 \
-SRR3083837 \
-SRR3083857 \
-SRR3083863 \
-SRR3083870 \
-SRR3083849"
+# ### run 11
+# ctrl_samp="SRR3083867 \
+# SRR3083883 \
+# SRR3083856 \
+# SRR3083869 \
+# SRR3083846 \
+# SRR3083860 \
+# SRR3083848 \
+# SRR3083840 \
+# SRR3083873 \
+# SRR3083862 \
+# SRR3083879 \
+# SRR3083875 \
+# SRR3083854 \
+# SRR3083881 \
+# SRR3083844 \
+# SRR3083852 \
+# SRR3083877 \
+# SRR3083842 \
+# SRR3083838 \
+# SRR3083858 \
+# SRR3083864 \
+# SRR3083871 \
+# SRR3083850"
+# popu_samp="SRR3083866 \
+# SRR3083882 \
+# SRR3083855 \
+# SRR3083868 \
+# SRR3083845 \
+# SRR3083859 \
+# SRR3083847 \
+# SRR3083839 \
+# SRR3083872 \
+# SRR3083861 \
+# SRR3083878 \
+# SRR3083874 \
+# SRR3083853 \
+# SRR3083880 \
+# SRR3083843 \
+# SRR3083851 \
+# SRR3083876 \
+# SRR3083841 \
+# SRR3083837 \
+# SRR3083857 \
+# SRR3083863 \
+# SRR3083870 \
+# SRR3083849"
 
 ## system's settings ----------------------------------------------------------
 
@@ -351,21 +351,21 @@ pon_path="/home/shared/dbs/grch38/gatk-pon/1000g-pon-hg38.vcf.gz"
 
 ## clmnt ----------------------------------------------------------------------
 
-# ### quality check
-# /usr/bin/time -v bash fq-check.sh \
-# > "logs/fq-check.out" 2> "logs/fq-check.err" &
+### quality check
+/usr/bin/time -v bash fq-check.sh \
+> "logs/fq-check.out" 2> "logs/fq-check.err" &
 
-# ### reference indexing
-# /usr/bin/time -v bash index-ref.sh "${ref_name}" \
-# > "logs/index-ref.out" 2> "logs/index-ref.err"
+### reference indexing
+/usr/bin/time -v bash index-ref.sh "${ref_name}" \
+> "logs/index-ref.out" 2> "logs/index-ref.err"
 
-# ### mapping
-# /usr/bin/time -v bash map-sr.sh "${ref_name}" "${ctrl_samp}" "${popu_samp}" \
-# > "logs/map-sr.out" 2> "logs/map-sr.err"
+### mapping
+/usr/bin/time -v bash map-sr.sh "${ref_name}" "${ctrl_samp}" "${popu_samp}" \
+> "logs/map-sr.out" 2> "logs/map-sr.err"
 
-# ### coverage statistics
-# /usr/bin/time -v bash depth-stats.sh \
-# > "logs/depth-stats.out" 2> "logs/depth-stats.err" &
+### coverage statistics
+/usr/bin/time -v bash depth-stats.sh \
+> "logs/depth-stats.out" 2> "logs/depth-stats.err" &
 
 ## matched data ---------------------------------------------------------------
 
@@ -383,9 +383,9 @@ pon_path="/home/shared/dbs/grch38/gatk-pon/1000g-pon-hg38.vcf.gz"
 /usr/bin/time -v bash norm-var.sh \
 > "logs/norm-var.out" 2> "logs/norm-var.err"
 
-### intersect and filter
-/usr/bin/time -v bash int-flt-var.sh \
-> "logs/int-flt-var.out" 2> "logs/int-flt-var.err"
+### hard filter gatk, intersect, and filter vardict
+/usr/bin/time -v bash fint-var.sh \
+> "logs/fint-var.out" 2> "logs/fint-var.err"
 
 ### annotation with snpeff
 /usr/bin/time -v bash anno-snpeff.sh "${snpeff_path}" "${snpsift_path}" \
@@ -406,9 +406,9 @@ pon_path="/home/shared/dbs/grch38/gatk-pon/1000g-pon-hg38.vcf.gz"
 /usr/bin/time -v bash norm-var-unc.sh \
 > "logs/norm-var-unc.out" 2> "logs/norm-var-unc.err"
 
-### intersect and filter
-/usr/bin/time -v bash int-flt-var-unc.sh \
-> "logs/int-flt-var-unc.out" 2> "logs/int-flt-var-unc.err"
+### hard filter gatk, intersect, and filter vardict
+/usr/bin/time -v bash fint-var-unc.sh \
+> "logs/fint-var-unc.out" 2> "logs/fint-var-unc.err"
 
 ### annotation with snpeff
 /usr/bin/time -v bash anno-snpeff-unc.sh "${snpeff_path}" "${snpsift_path}" \
@@ -421,7 +421,7 @@ pon_path="/home/shared/dbs/grch38/gatk-pon/1000g-pon-hg38.vcf.gz"
 > "logs/build-gt.out" 2> "logs/build-gt.err"
 
 ### cleaning reference copy and indexes, and mappings
-# rm -rf "../ref"
+rm -rf "../ref"
 # rm -rf "../map-sr"
 
 echo "Prematura la supercazola o scherziamo?"
