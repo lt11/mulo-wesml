@@ -9,7 +9,7 @@
 full_dir=$(cd $(dirname "${0}") && pwd)
 base_dir=$(dirname "${full_dir}")
 pll_runs=8
-intervals_file="$(find "${base_dir}/cpk" -name "*intervals.bed.bed")"
+intervals_file="$(find "${base_dir}/cpk" -name "*intervals.bed")"
 
 ### output folder
 out_dir="${base_dir}/cov"
