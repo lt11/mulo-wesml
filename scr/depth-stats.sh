@@ -33,6 +33,7 @@ for ind_m in $(ls "map-sr/"*"bam"); do
 
   (
   map_name=$(echo "${ind_m}" | cut -d "/" -f 2 | cut -d "-" -f 1,2)
+
   samtools depth "${ind_m}" > "${out_dir}/${map_name}-depth.txt"
   ref_len=$(samtools view -H "${ind_m}" | \
   grep "^@SQ" | cut -f 3 | cut -d ":" -f 2 | \
