@@ -6,11 +6,11 @@
 
 ### This implementation of vardict performs 
 ### the following filters with var2vcf_paired.pl:
-### - minimum allele frequency (min_af) 0.20
+### - minimum allele frequency (min_af)
 ### - only one variant per locus is allowed (-A option is missing)
 ### - variants that didn't pass filters will not be present in the vcf file (-S)
 ### - strict somatic candidates (with -M)
-### - minimal coverage (-d) 10 X
+### - minimal coverage (-d)
 ### - no strand bias for low-frequency variants (details are explained below)
 ###
 ### Another level of filtering may be added by checking the strand bias
@@ -76,7 +76,8 @@ ref_path=$(find "${base_dir}/ref" -name "${ref_name}*fa")
 fai_path="${ref_path}.fai"
 
 ### parameters
-min_af="0.20"
+min_af="0.30"
+min_depth="12"
 
 ### increase memory for java
 export _JAVA_OPTIONS="-Xms16g -Xmx48g"
@@ -126,7 +127,7 @@ for (( ind_i=0; ind_i<seq_dim; ind_i++ )); do
   -N "${popu_samp[ind_i]}" --nosv \
   --fisher \
   -C -c 1 -S 2 -E 3 "${intervals_file}" | \
-  var2vcf_valid.pl -N "${popu_samp[ind_i]}" -E -f "${min_af}" \
+  var2vcf_valid.pl -N "${popu_samp[ind_i]}" -E -f "${min_af}" -d "${min_depth}" \
   > "${tmp_vcf}"
   ### add the contig info in the header, sort and compress
   bcftools reheader --fai "${ref_path}.fai" "${tmp_vcf}" \
