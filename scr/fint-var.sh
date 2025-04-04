@@ -22,11 +22,9 @@ mkdir -p "${out_dir}"
 ### DISCLAIMER: do not confuse STATUS=Deletion with TYPE=Deletion
 
 ### the variants we keep
-variants_kept="StrongLOH StrongSomatic Deletion"
+variants_kept="StrongLOH StrongSomatic Deletion LikelySomatic LikelyLOH"
 ### the TAG "STATUS=" is added in the command line below
 ### thus, we exclude: 
-### LikelySomatic
-### LikelyLOH
 ### Germline
 ### AFDiff
 ### SampleSpecific
@@ -73,7 +71,7 @@ for ind_v in $(find "${v_dir}" -name "*vcf.gz"); do
   ### if at least one of the tlod values (in case of multiallelic site)
   ### is larger than the threshold, the record is kept
   ind_g_temf=$(basename "${ind_g}" | sed 's|-norm.vcf.gz|-norm-temf.vcf.gz|')
-  bcftools filter -i 'INFO/TLOD >= 13' \
+  bcftools filter -i 'INFO/TLOD >= 6' \
   "${ind_g}" -O z -o "${ind_g_temf}"
   tabix -f -p vcf "${ind_g_temf}"
 
