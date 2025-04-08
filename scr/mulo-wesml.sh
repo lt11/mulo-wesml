@@ -244,98 +244,98 @@ ref_name="grch38-p14"
 # 3ed785cf5f7c4376a036e828130d4ef3 \
 # 35a27ae22fe9419ab79d6ca55608ff30 \
 # 6b40e5ed60a444678ec46dc7848ba027"
-### run 10
-ctrl_samp="16b73e40db9046bcaf1d867bc80eac4f \
-a8b9ad2d5f8e40cf945af2942dec462e \
-abde7a376ac347eb9a0fac0c58863cd0 \
-879272a68692432cbd1133837418b992 \
-b767cac2d8a64c158a0ab5e724f4473a \
-689256a39a314c2e85fc608e752bdf22 \
-09cec28edf364ac289baf20227180e29 \
-1d792ec7f6a3495ca0f4bdee33a04acf \
-daa86bb519534e919402351bfbbd5ad1 \
-fa4731464d2f4575929f30db5dcc6a6d \
-727bd1ad1d7f45699ed0f0d1d355c7ef \
-9e44fe6ec1e84df5a62df59e6113a60d \
-13686f331c774020b2e44df6a1e79b49 \
-b3a79e2e7b7542fba9e593e4ac5a90e2 \
-960576ee873540e59e0ead6ca526d94e \
-e592ed1e4fa3459e825601b5e2dc09ce \
-6c06b9ec6df240299b30c38448f9637f \
-16d8b5bea00c43cf8121f0c8b5dcc5c2 \
-089c6a18596341a282245793318db837 \
-433ab22f7d7f4e8686f30ab50681046c \
-d3ef878062a64dbbab8f3e7122632efc \
-5d6e6d97dba34087ba363840e5b33520"
-popu_samp="ce82e541bd9b48b3aa738aea89cc8380 \
-f69a55ff6c6e48b389ffe9fb752b48c4 \
-6dd974cf0c9d4a4cb97d581419e6e520 \
-5d34e7a288bb4211a3cdfb77208a6605 \
-9a12bec0d01c4e95a9f8ff6b96292692 \
-ebe4fd9e75fb4950bc9b5920f3ec1e04 \
-a2224a2a49c64cc9a55a6097a28b8898 \
-04dc7ecee9534f0c841f1ba1a1d17bef \
-cd7d0c1424694303b0447050b90d407e \
-7dfdbede16774327a70b7b57f3308f8d \
-1e4946ced743487ba3762928163571e6 \
-73b75d9d568045b5823603d3ae153c29 \
-6edea97faf8d4505bc5ed70a53ba334b \
-d1b4683890054027abe19300bc489c54 \
-66e07576acd94a7384215e5999284177 \
-0c78bd1af7eb44568210f115aa079df5 \
-0121784897f3499589c83b0cf9527c40 \
-4663fa5a53e740bea6626aaa4e456475 \
-5ebd77cff8b741649d3cdac8c78331ef \
-90533f5d07614b4aa1ee91e10e9ba2c4 \
-fa676301902f473f83135bff34ae549a \
-c4c499f391c4400e9d4c34cc4ba25efd"
-# ### run 11
-# ctrl_samp="SRR3083867 \
-# SRR3083883 \
-# SRR3083856 \
-# SRR3083869 \
-# SRR3083846 \
-# SRR3083860 \
-# SRR3083848 \
-# SRR3083840 \
-# SRR3083873 \
-# SRR3083862 \
-# SRR3083879 \
-# SRR3083875 \
-# SRR3083854 \
-# SRR3083881 \
-# SRR3083844 \
-# SRR3083852 \
-# SRR3083877 \
-# SRR3083842 \
-# SRR3083838 \
-# SRR3083858 \
-# SRR3083864 \
-# SRR3083871 \
-# SRR3083850"
-# popu_samp="SRR3083866 \
-# SRR3083882 \
-# SRR3083855 \
-# SRR3083868 \
-# SRR3083845 \
-# SRR3083859 \
-# SRR3083847 \
-# SRR3083839 \
-# SRR3083872 \
-# SRR3083861 \
-# SRR3083878 \
-# SRR3083874 \
-# SRR3083853 \
-# SRR3083880 \
-# SRR3083843 \
-# SRR3083851 \
-# SRR3083876 \
-# SRR3083841 \
-# SRR3083837 \
-# SRR3083857 \
-# SRR3083863 \
-# SRR3083870 \
-# SRR3083849"
+# ### run 10
+# ctrl_samp="16b73e40db9046bcaf1d867bc80eac4f \
+# a8b9ad2d5f8e40cf945af2942dec462e \
+# abde7a376ac347eb9a0fac0c58863cd0 \
+# 879272a68692432cbd1133837418b992 \
+# b767cac2d8a64c158a0ab5e724f4473a \
+# 689256a39a314c2e85fc608e752bdf22 \
+# 09cec28edf364ac289baf20227180e29 \
+# 1d792ec7f6a3495ca0f4bdee33a04acf \
+# daa86bb519534e919402351bfbbd5ad1 \
+# fa4731464d2f4575929f30db5dcc6a6d \
+# 727bd1ad1d7f45699ed0f0d1d355c7ef \
+# 9e44fe6ec1e84df5a62df59e6113a60d \
+# 13686f331c774020b2e44df6a1e79b49 \
+# b3a79e2e7b7542fba9e593e4ac5a90e2 \
+# 960576ee873540e59e0ead6ca526d94e \
+# e592ed1e4fa3459e825601b5e2dc09ce \
+# 6c06b9ec6df240299b30c38448f9637f \
+# 16d8b5bea00c43cf8121f0c8b5dcc5c2 \
+# 089c6a18596341a282245793318db837 \
+# 433ab22f7d7f4e8686f30ab50681046c \
+# d3ef878062a64dbbab8f3e7122632efc \
+# 5d6e6d97dba34087ba363840e5b33520"
+# popu_samp="ce82e541bd9b48b3aa738aea89cc8380 \
+# f69a55ff6c6e48b389ffe9fb752b48c4 \
+# 6dd974cf0c9d4a4cb97d581419e6e520 \
+# 5d34e7a288bb4211a3cdfb77208a6605 \
+# 9a12bec0d01c4e95a9f8ff6b96292692 \
+# ebe4fd9e75fb4950bc9b5920f3ec1e04 \
+# a2224a2a49c64cc9a55a6097a28b8898 \
+# 04dc7ecee9534f0c841f1ba1a1d17bef \
+# cd7d0c1424694303b0447050b90d407e \
+# 7dfdbede16774327a70b7b57f3308f8d \
+# 1e4946ced743487ba3762928163571e6 \
+# 73b75d9d568045b5823603d3ae153c29 \
+# 6edea97faf8d4505bc5ed70a53ba334b \
+# d1b4683890054027abe19300bc489c54 \
+# 66e07576acd94a7384215e5999284177 \
+# 0c78bd1af7eb44568210f115aa079df5 \
+# 0121784897f3499589c83b0cf9527c40 \
+# 4663fa5a53e740bea6626aaa4e456475 \
+# 5ebd77cff8b741649d3cdac8c78331ef \
+# 90533f5d07614b4aa1ee91e10e9ba2c4 \
+# fa676301902f473f83135bff34ae549a \
+# c4c499f391c4400e9d4c34cc4ba25efd"
+### run 11
+ctrl_samp="SRR3083867 \
+SRR3083883 \
+SRR3083856 \
+SRR3083869 \
+SRR3083846 \
+SRR3083860 \
+SRR3083848 \
+SRR3083840 \
+SRR3083873 \
+SRR3083862 \
+SRR3083879 \
+SRR3083875 \
+SRR3083854 \
+SRR3083881 \
+SRR3083844 \
+SRR3083852 \
+SRR3083877 \
+SRR3083842 \
+SRR3083838 \
+SRR3083858 \
+SRR3083864 \
+SRR3083871 \
+SRR3083850"
+popu_samp="SRR3083866 \
+SRR3083882 \
+SRR3083855 \
+SRR3083868 \
+SRR3083845 \
+SRR3083859 \
+SRR3083847 \
+SRR3083839 \
+SRR3083872 \
+SRR3083861 \
+SRR3083878 \
+SRR3083874 \
+SRR3083853 \
+SRR3083880 \
+SRR3083843 \
+SRR3083851 \
+SRR3083876 \
+SRR3083841 \
+SRR3083837 \
+SRR3083857 \
+SRR3083863 \
+SRR3083870 \
+SRR3083849"
 
 ## system's settings ----------------------------------------------------------
 
@@ -351,21 +351,21 @@ pon_path="/home/shared/dbs/grch38/gatk-pon/1000g-pon-hg38.vcf.gz"
 
 ## clmnt ----------------------------------------------------------------------
 
-# ### quality check
-# /usr/bin/time -v bash fq-check.sh \
-# > "logs/fq-check.out" 2> "logs/fq-check.err" &
+### quality check
+/usr/bin/time -v bash fq-check.sh \
+> "logs/fq-check.out" 2> "logs/fq-check.err" &
 
-# ### reference indexing
-# /usr/bin/time -v bash index-ref.sh "${ref_name}" \
-# > "logs/index-ref.out" 2> "logs/index-ref.err"
+### reference indexing
+/usr/bin/time -v bash index-ref.sh "${ref_name}" \
+> "logs/index-ref.out" 2> "logs/index-ref.err"
 
-# ### mapping
-# /usr/bin/time -v bash map-sr.sh "${ref_name}" "${ctrl_samp}" "${popu_samp}" \
-# > "logs/map-sr.out" 2> "logs/map-sr.err"
+### mapping
+/usr/bin/time -v bash map-sr.sh "${ref_name}" "${ctrl_samp}" "${popu_samp}" \
+> "logs/map-sr.out" 2> "logs/map-sr.err"
 
-# ### coverage statistics
-# /usr/bin/time -v bash depth-stats.sh \
-# > "logs/depth-stats.out" 2> "logs/depth-stats.err" &
+### coverage statistics
+/usr/bin/time -v bash depth-stats.sh \
+> "logs/depth-stats.out" 2> "logs/depth-stats.err" &
 
 ## matched data ---------------------------------------------------------------
 
