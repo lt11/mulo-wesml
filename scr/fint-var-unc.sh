@@ -2,8 +2,7 @@
 
 ## header  --------------------------------------------------------------------
 
-### the one that hard-filters and intersects the unmatched small variants, 
-### and then keeps only the high-impact ones
+### the one that hard-filters and intersects the unmatched small variants
 
 ## settings  ------------------------------------------------------------------
 
@@ -46,7 +45,7 @@ for ind_v in $(find "${v_dir}" -name "*vcf.gz"); do
   ### if at least one of the tlod values (in case of multiallelic site)
   ### is larger than the threshold, the record is kept
   ind_g_temf=$(basename "${ind_g}" | sed 's|-norm.vcf.gz|-norm-temf.vcf.gz|')
-  bcftools filter -i 'INFO/TLOD >= 6' \
+  bcftools filter -i 'INFO/TLOD >= 13' \
   "${ind_g}" -O z -o "${ind_g_temf}"
   tabix -f -p vcf "${ind_g_temf}"
 
