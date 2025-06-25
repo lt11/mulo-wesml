@@ -22,12 +22,14 @@ mkdir -p "${out_dir}"
 ### DISCLAIMER: do not confuse STATUS=Deletion with TYPE=Deletion
 
 ### the variants we keep
-variants_kept="StrongLOH StrongSomatic Deletion"
+variants_kept="LikelySomatic StrongSomatic"
 ### the TAG "STATUS=" is added in the command line below
 ### thus, we exclude: 
 ### Germline
 ### AFDiff
 ### SampleSpecific
+### StrongLOH
+### LikelyLOH
 
 ### the status is defined as in the following lines from
 ### https://github.com/AstraZeneca-NGS/VarDictJava (december 2022);
