@@ -47,8 +47,8 @@
 
 full_dir=$(cd $(dirname "${0}") && pwd)
 base_dir=$(dirname "${full_dir}")
-n_threads=24
-pll_runs=2
+n_threads=4
+pll_runs=12
 ref_name="${1}"
 read -a popu_samp <<< "${2}"
 read -a ctrl_samp <<< "${3}"
