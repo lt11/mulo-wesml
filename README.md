@@ -6,7 +6,7 @@ This pipeline performs ensemble variant calling using GATK Mutect2 and VarDict, 
 
 The workflow is primarily designed for matched mode and can be used to generate training data for "tab-unmatched" (https://github.com/lt11/tab-unmatched).
 
-For tumour-only analyses, the corresponding pipeline mulo-wesunc is available (https://github.com/lt11/mulo-wesunc).
+For tumour-only analyses, the corresponding pipeline "mulo-wesunc" is available (https://github.com/lt11/mulo-wesunc).
 
 ## Installation
 
