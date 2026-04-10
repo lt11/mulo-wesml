@@ -79,8 +79,8 @@ ref_path=$(find "${base_dir}/ref" -name "${ref_name}*fa")
 fai_path="${ref_path}.fai"
 
 ### parameters
-min_af="0.30"
-min_depth="12"
+min_af="0.20"
+min_depth="10"
 
 ### increase memory for java
 export _JAVA_OPTIONS="-Xms16g -Xmx48g"

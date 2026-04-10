@@ -52,7 +52,7 @@ for (( ind_i=0; ind_i<seq_dim; ind_i++ )); do
   ### variant subtraction (vcf_unc - vcf_mtc):
   ### keeps the variants in vcf_unc which are not present in vcf_mtc
   bcftools isec -O z -C -p "${samp_out_dir}" \
-  "${vcf_unc}" "${out_dir}/${popu_samp[ind_i]}-temp1.vcf.gz" "${vcf_mtc}"
+  "${vcf_unc}" "${out_dir}/${popu_samp[ind_i]}-temp1.vcf.gz"
   bgzip "${samp_out_dir}/0000.vcf"
   tabix -f -p vcf "${samp_out_dir}/0000.vcf.gz"
   
@@ -73,3 +73,5 @@ for (( ind_i=0; ind_i<seq_dim; ind_i++ )); do
   "${samp_out_dir}"
   ) &
 done
+
+wait

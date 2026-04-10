@@ -30,7 +30,7 @@ mkdir -p "${out_dir}"
 # if [[ -d "${dir_db}" ]]; then rm -rf "${dir_db}"; fi
 
 ### increase memory for java
-export _JAVA_OPTIONS="-Xms32g -Xmx120g"
+export _JAVA_OPTIONS="-Xms32g -Xmx200g"
 
 ## clmnt  ---------------------------------------------------------------------
 
@@ -61,7 +61,8 @@ for (( ind_i=0; ind_i<seq_dim; ind_i++ )); do
   -L "${intervals_file}" \
   --max-mnp-distance 2 \
   --panel-of-normals "${pon_path}" \
-  -O "${out_dir}/${popu_samp[ind_i]}.vcf.gz" &> "${log_dir}/${popu_samp[ind_i]}-mutect.log"
+  -O "${out_dir}/${popu_samp[ind_i]}.vcf.gz" \
+  &> "${log_dir}/${popu_samp[ind_i]}-mutect.log" &
 done
 
 wait

@@ -8,7 +8,7 @@
 
 full_dir=$(cd $(dirname "${0}") && pwd)
 base_dir=$(dirname "${full_dir}")
-pll_runs=2
+pll_runs=4
 ref_name="${1}"
 read -a popu_samp <<< "${2}"
 read -a ctrl_samp <<< "${3}"
@@ -30,7 +30,7 @@ mkdir -p "${out_dir}"
 # if [[ -d "${dir_db}" ]]; then rm -rf "${dir_db}"; fi
 
 ### increase memory for java
-export _JAVA_OPTIONS="-Xms32g -Xmx120g"
+export _JAVA_OPTIONS="-Xms32g -Xmx200g"
 
 ## clmnt  ---------------------------------------------------------------------
 
