@@ -310,51 +310,51 @@ ref_name="grch38-p14"
 # SRR3083863 \
 # SRR3083870 \
 # SRR3083849"
-### run 12
-ctrl_samp="a592e794fb424d1695b3c2059390b14c \
-8e1103308f354680b920cca0e6156105 \
-3a9f03ca861847eb80a8120d835ab714 \
-2bbed379b7b84107afe0bfd42b041bb3 \
-9dba8651a3744e47862ff91f46c7bd4d \
-5f7ab27c4bb5430ca173433d42f767d5 \
-758b85545e4a469e92ddc459fbcd4e0e \
-5efebdb0cfc142aebe1de124289877a5 \
-29ee93c76fcd4a76bc26beaa899b9be9 \
-74fe1db19f3c4457804a9432ce8156f5 \
-718ac0d3ae754ec9b69b8cda5e3d2cad \
-6ef662e131f746369d21a5409c9d46b3 \
-b5dc854d44a14ef287fec65fc39f7d2e \
-8cf937d888aa4896adb5fd5479580dc3 \
-ce86540c848846d39a6f591f2f3b5be7 \
-d558f5836c204f1da431dda54d4d3f05 \
-e1afb0d5ca804fdb86c827443f74b3a6 \
-5bc449b5fc2249d09145887f4c16e2ea \
-5cf5995d4ad74c93858b1e46e9cb6bfb \
-0ff8a73ff639479882f0852d9c183b9d \
-5f232b7352814be096790920bcb4dd29 \
-89d0a1e31b77413faa1ff31cc665e959"
-popu_samp="856d70685d314bc0b50ce02ed89ced3f \
-d742814cf5f34231a2e06014e315d672 \
-4d394512e495472b89e0bb402f714949 \
-f8b1d5eea86d450596f83e8b0c050946 \
-efd48c0260c44db19c408ffcac8b4991 \
-2e4fe50f0ee646c297952e2c1c8a86bf \
-a588279bb306445f958461586da9887f \
-5a58bec067a8452980d81042dfd8164a \
-8a8a23d5716d4e90ab83cfa3c3eccdad \
-308bc9ed2d0748058c9b721b6dac164d \
-fb62bace995f4da18ebbad5c18455253 \
-59db811a0bfd4074a5a3e9f33402c6cd \
-d27a570c2115488599394aa5955bf4cd \
-fc8f661f51cf492daebfc9ea75151dae \
-955795135f164bdcbf4c4d4d76a3d069 \
-a14779a47bb54393bf692fb981af9662 \
-a9558e639b5c4cd295a33a803277359f \
-c7ec7db52a0a4300aedcf26b90255648 \
-59db8d853daa42af864941c53d90e9ce \
-665a50ed6767411ab99d7e994cbe5e17 \
-cef644600ab548679675da4a7d84310e \
-171689da01a440f081f12e31c2e22def"
+# ### run 12
+# ctrl_samp="a592e794fb424d1695b3c2059390b14c \
+# 8e1103308f354680b920cca0e6156105 \
+# 3a9f03ca861847eb80a8120d835ab714 \
+# 2bbed379b7b84107afe0bfd42b041bb3 \
+# 9dba8651a3744e47862ff91f46c7bd4d \
+# 5f7ab27c4bb5430ca173433d42f767d5 \
+# 758b85545e4a469e92ddc459fbcd4e0e \
+# 5efebdb0cfc142aebe1de124289877a5 \
+# 29ee93c76fcd4a76bc26beaa899b9be9 \
+# 74fe1db19f3c4457804a9432ce8156f5 \
+# 718ac0d3ae754ec9b69b8cda5e3d2cad \
+# 6ef662e131f746369d21a5409c9d46b3 \
+# b5dc854d44a14ef287fec65fc39f7d2e \
+# 8cf937d888aa4896adb5fd5479580dc3 \
+# ce86540c848846d39a6f591f2f3b5be7 \
+# d558f5836c204f1da431dda54d4d3f05 \
+# e1afb0d5ca804fdb86c827443f74b3a6 \
+# 5bc449b5fc2249d09145887f4c16e2ea \
+# 5cf5995d4ad74c93858b1e46e9cb6bfb \
+# 0ff8a73ff639479882f0852d9c183b9d \
+# 5f232b7352814be096790920bcb4dd29 \
+# 89d0a1e31b77413faa1ff31cc665e959"
+# popu_samp="856d70685d314bc0b50ce02ed89ced3f \
+# d742814cf5f34231a2e06014e315d672 \
+# 4d394512e495472b89e0bb402f714949 \
+# f8b1d5eea86d450596f83e8b0c050946 \
+# efd48c0260c44db19c408ffcac8b4991 \
+# 2e4fe50f0ee646c297952e2c1c8a86bf \
+# a588279bb306445f958461586da9887f \
+# 5a58bec067a8452980d81042dfd8164a \
+# 8a8a23d5716d4e90ab83cfa3c3eccdad \
+# 308bc9ed2d0748058c9b721b6dac164d \
+# fb62bace995f4da18ebbad5c18455253 \
+# 59db811a0bfd4074a5a3e9f33402c6cd \
+# d27a570c2115488599394aa5955bf4cd \
+# fc8f661f51cf492daebfc9ea75151dae \
+# 955795135f164bdcbf4c4d4d76a3d069 \
+# a14779a47bb54393bf692fb981af9662 \
+# a9558e639b5c4cd295a33a803277359f \
+# c7ec7db52a0a4300aedcf26b90255648 \
+# 59db8d853daa42af864941c53d90e9ce \
+# 665a50ed6767411ab99d7e994cbe5e17 \
+# cef644600ab548679675da4a7d84310e \
+# 171689da01a440f081f12e31c2e22def"
 # ### run 13
 # ctrl_samp="1928b73f40804d99980f7b7cd456a955 \
 # 7888d0dc9a75417a8dd63897de85f24b \
@@ -448,6 +448,54 @@ cef644600ab548679675da4a7d84310e \
 # ee94304f9c704781bef3b889e716428d \
 # d019903937754727bf3b90e096c1f32b"
 
+### run 16
+ctrl_samp="SRR29899750 \
+SRR29899754 \
+SRR29900064 \
+SRR29900067 \
+SRR29900070 \
+SRR29900073 \
+SRR29900076 \
+SRR29900079 \
+SRR29900082 \
+SRR29899516 \
+SRR29899519 \
+SRR29899522 \
+SRR29900263 \
+SRR29900266 \
+SRR29900269 \
+SRR29900272 \
+SRR29900275 \
+SRR29900277 \
+SRR29900280 \
+SRR29900283 \
+SRR29900285 \
+SRR29900288 \
+SRR29900291"
+popu_samp="SRR29899751 \
+SRR29899753 \
+SRR29900063 \
+SRR29900066 \
+SRR29900069 \
+SRR29900072 \
+SRR29900075 \
+SRR29900078 \
+SRR29900081 \
+SRR29900084 \
+SRR29899518 \
+SRR29899521 \
+SRR29900262 \
+SRR29900265 \
+SRR29900268 \
+SRR29900271 \
+SRR29900274 \
+SRR29900276 \
+SRR29900279 \
+SRR29900282 \
+SRR29900284 \
+SRR29900287 \
+SRR29900290"
+
 ### number of tumour samples per run
 ### run   n_samples
 ### 7	    25
@@ -458,6 +506,7 @@ cef644600ab548679675da4a7d84310e \
 ### 12	  22
 ### 13	  22
 ### 15	  23
+### 16    23
 
 ## system's settings ----------------------------------------------------------
 
@@ -481,13 +530,13 @@ pon_path="/home/shared/dbs/grch38/gatk-pon/1000g-pon-hg38.vcf.gz"
 # /usr/bin/time -v bash index-ref.sh "${ref_name}" \
 # > "logs/index-ref.out" 2> "logs/index-ref.err"
 
-# ### mapping
-# /usr/bin/time -v bash map-sr.sh "${ref_name}" "${ctrl_samp}" "${popu_samp}" \
-# > "logs/map-sr.out" 2> "logs/map-sr.err"
+### mapping
+/usr/bin/time -v bash map-sr.sh "${ref_name}" "${ctrl_samp}" "${popu_samp}" \
+> "logs/map-sr.out" 2> "logs/map-sr.err"
 
-# ### coverage statistics
-# /usr/bin/time -v bash depth-stats.sh \
-# > "logs/depth-stats.out" 2> "logs/depth-stats.err" &
+### coverage statistics
+/usr/bin/time -v bash depth-stats.sh \
+> "logs/depth-stats.out" 2> "logs/depth-stats.err" &
 
 ## matched data ---------------------------------------------------------------
 
